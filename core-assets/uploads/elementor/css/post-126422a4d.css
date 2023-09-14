@@ -196,7 +196,7 @@ body.rtl .elementor-12642 .elementor-element.elementor-element-1e429215 {
 	font-size: 12px;
 	font-weight: 500;
 	letter-spacing: 0.2px;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .elementor-12642 .elementor-element.elementor-element-3fe6947c.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type2 .gt3_module_button__container span.gt3_module_button__cover.front {
@@ -217,7 +217,7 @@ body.rtl .elementor-12642 .elementor-element.elementor-element-1e429215 {
 .elementor-12642 .elementor-element.elementor-element-3fe6947c.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type5 .gt3_module_button__container .gt3_module_button__cover.front:before,
 .elementor-12642 .elementor-element.elementor-element-3fe6947c.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type5 .gt3_module_button__container .gt3_module_button__cover.front:after,
 .elementor-12642 .elementor-element.elementor-element-3fe6947c.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type6 {
-	background-color: #0F110F;
+	background-color: transparent;
 }
 
 .elementor-12642 .elementor-element.elementor-element-3fe6947c.elementor-widget-gt3-core-button .gt3_module_button_elementor:not(.hover_type2) a:hover {
@@ -403,7 +403,12 @@ body.rtl .elementor-12642 .elementor-element.elementor-element-5adae9ba {
 }
 
 .elementor-12642 .elementor-element.elementor-element-43310fd3.elementor-widget-gt3-core-counter .counter_text .counter {
-	color: #0F110F;
+	/* color: #0F110F; */
+	background-image: linear-gradient(166deg, #F41170 -3.51%, #0021BA 180.61%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	/* For some browsers like Safari */
+	color: transparent;
 }
 
 .elementor-12642 .elementor-element.elementor-element-43310fd3.elementor-widget-gt3-core-counter .description {
@@ -427,7 +432,11 @@ body.rtl .elementor-12642 .elementor-element.elementor-element-5adae9ba {
 }
 
 .elementor-12642 .elementor-element.elementor-element-1d4b7c77.elementor-widget-gt3-core-counter .counter_text .counter {
-	color: #0F110F;
+	background-image: linear-gradient(166deg, #F41170 -3.51%, #0021BA 180.61%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	/* For some browsers like Safari */
+	color: transparent;
 }
 
 .elementor-12642 .elementor-element.elementor-element-1d4b7c77.elementor-widget-gt3-core-counter .description {
@@ -451,7 +460,11 @@ body.rtl .elementor-12642 .elementor-element.elementor-element-5adae9ba {
 }
 
 .elementor-12642 .elementor-element.elementor-element-260a477a.elementor-widget-gt3-core-counter .counter_text .counter {
-	color: #0F110F;
+	background-image: linear-gradient(166deg, #F41170 -3.51%, #0021BA 180.61%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	/* For some browsers like Safari */
+	color: transparent;
 }
 
 .elementor-12642 .elementor-element.elementor-element-260a477a.elementor-widget-gt3-core-counter .description {
@@ -787,7 +800,7 @@ body.rtl .elementor-12642 .elementor-element.elementor-element-5adae9ba {
 
 .elementor-12642 .elementor-element.elementor-element-4aa823a2:not(.elementor-motion-effects-element-type-background),
 .elementor-12642 .elementor-element.elementor-element-4aa823a2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-color: #0F110F;
+	background-color: #ffffff;
 }
 
 .elementor-12642 .elementor-element.elementor-element-4aa823a2 {
@@ -863,21 +876,21 @@ body.rtl .elementor-12642 .elementor-element.elementor-element-5adae9ba {
 	padding: 5px 13px 5px 13px;
 	margin: 0px 10px 0px 0px;
 	border-radius: 14px;
-	color: #BEC9D2;
-	background-color: #02010100;
+	color: black;
+	/* background-color: #ff000000 !important; */
 }
 
 .elementor-12642 .elementor-element.elementor-element-1ab9a7f1.elementor-widget-gt3-core-tabs .gt3_tabs_nav li a:hover {
-	color: #FFFFFF;
+	color: black;
 }
 
 .elementor-12642 .elementor-element.elementor-element-1ab9a7f1.elementor-widget-gt3-core-tabs .gt3_tabs_nav li.ui-tabs-active a {
-	color: #0F110F;
-	background-color: #FFFFFF;
+	color: #ffffff;
+	background: linear-gradient(166deg, #F41170 -3.51%, #0021BA 180.61%);
 }
 
 .elementor-12642 .elementor-element.elementor-element-1ab9a7f1.elementor-widget-gt3-core-tabs .gt3_tabs_nav li.ui-tabs-active a:hover {
-	color: #0F110F;
+	color: white;
 	background-color: #FFFFFF;
 }
 
