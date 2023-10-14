@@ -1766,3 +1766,29 @@ form.revolution_form input[type="submit"],
     --min_price_title: "Min Price";
     --max_price_title: "Max Price";
 }
+
+.background-custon-hm-1 {
+    background-color: #92bac5;
+}
+
+.cs-min-height-500 {
+    min-height: 600px;
+}
+
+.cs-min-height-400 {
+    min-height: 400px !important;
+}
+
+.cs-max-height-600 {
+    min-height: 600px;
+}
+
+.elementor-12649 .elementor-element.elementor-element-688882e1.elementor-widget-gt3-core-button .gt3_module_button_elementor:not(.hover_type2):not(.hover_type4):not(.hover_type5) a,
+.elementor-12649 .elementor-element.elementor-element-688882e1.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type2 .gt3_module_button__container span.gt3_module_button__cover.front,
+.elementor-12649 .elementor-element.elementor-element-688882e1.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type4 .gt3_module_button__cover:before,
+.elementor-12649 .elementor-element.elementor-element-688882e1.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type5 .gt3_module_button__container .gt3_module_button__cover.front:before,
+.elementor-12649 .elementor-element.elementor-element-688882e1.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type5 .gt3_module_button__container .gt3_module_button__cover.front:after,
+.elementor-12649 .elementor-element.elementor-element-688882e1.elementor-widget-gt3-core-button .gt3_module_button_elementor .hover_type6 {
+	/* background-color: #0F110F; */
+	background: linear-gradient(166deg, #F41170 -3.51%, #0021BA 180.61%);
+}
